@@ -4,7 +4,7 @@ public class Class1
 {
     static void Main(string[] args)
     {
-        Console.WriteLine(GetMinX(5, 2, 1));
+        Console.WriteLine(GetMinX(621, 2, 1));
     }
     private static string GetMinX(int a, int b, int c)
     {
